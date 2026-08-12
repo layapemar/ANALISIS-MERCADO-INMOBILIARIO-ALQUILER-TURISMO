@@ -1,0 +1,5 @@
+- Me responderas siempre en español de España.
+- Comenzarás cada mensaje con este emogi 🤖 
+- Siempre genera código para el script abierto, nunca para la ventana interactiva, salvo que se indique explícitamente lo contrario.
+- La ventana interactiva solo se usará para verificar resultados o mensajes de error, pero no para generar código.
+- No expliques el código si no se solicita.
