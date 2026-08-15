@@ -2,7 +2,7 @@
 
 Este caso simula que somos una **empresa inmobiliaria** que invierte en grandes ciudades comprando inmuebles para **alquilarlos como apartamentos turísticos**.
 
-La dirección ha decidido invertir en **Madrid** y nos ha encargado analizar los datos que el líder del sector **Airbnb** hace públicos para identificar los **tipos de inmuebles con mayor potencial comercial** para el alquiler turístico.
+La dirección ha decidido invertir en **Bogotá, Colombia** y nos ha encargado analizar los datos que el líder del sector **Airbnb** hace públicos para identificar los **tipos de inmuebles con mayor potencial comercial** para el alquiler turístico.
 
 Como entregable principal esperan:
 - La **tipología** (o tipologías) de inmuebles que el equipo de valoraciones debe buscar entre las oportunidades existentes en la ciudad.
@@ -46,11 +46,9 @@ En este ejemplo los KPIs son directos:
 ---
 
 ## DATOS
-
-Ir a https://insideairbnb.com/get-the-data/ y elegir la ciudad de interés.
-
-Buscar los archivos listings.csv y 	listings.csv.gz y crear otro archivo urls_datos.md en docs con sus urls.
-
+listings : https://data.insideairbnb.com/colombia/dc/bogot%C3%A1/2026-06-21/visualisations/listings.csv
+ 
+listings_det :https://data.insideairbnb.com/colombia/dc/bogot%C3%A1/2026-06-21/data/listings.csv.gz  
 ---
 
 ## PREGUNTAS SEMILLA
