@@ -24,7 +24,6 @@ datos/
 *.duckdb
 
 # Entregables
-entregables/
 reports/
 
 # Archivos de log
